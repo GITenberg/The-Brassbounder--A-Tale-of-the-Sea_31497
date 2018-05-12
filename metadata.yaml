@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35272'
     url: http://www.gutenberg.org/2009/agents/35272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31497#The-Brassbounder--A-Tale-of-the-Sea
 gutenberg_issued: '2010-03-04'
 gutenberg_type: Text
 identifiers:
